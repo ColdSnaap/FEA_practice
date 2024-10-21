@@ -14,3 +14,5 @@ FEA practice on the simulation of creep deformation in an intervertebral disc (I
 ## Run the simulation.
 
 An unknown error occurred. Trying to identify the issue...
+
+![Screenshot 2024-10-21 124655](https://github.com/user-attachments/assets/0e495b7d-ed3b-4c14-96eb-9a7fa391403d)
