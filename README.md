@@ -10,3 +10,7 @@ FEA practice on the simulation of creep deformation in an intervertebral disc (I
 ## Define analysis settings and boundary conditions.
 
 ![Screenshot 2024-10-21 123956](https://github.com/user-attachments/assets/87c399d2-d56d-4312-a904-c71b7dad25f5)
+
+## Run the simulation.
+
+An unknown error occurred. Trying to identify the issue...
